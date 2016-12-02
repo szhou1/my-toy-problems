@@ -1,0 +1,10 @@
+{
+  "es6": false,
+  "type": "client-side",
+  "src": [
+    "treeMap.js"
+  ],
+  "tests": [
+    "treeMap.test.js"
+  ]
+}

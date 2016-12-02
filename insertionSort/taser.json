@@ -1,0 +1,10 @@
+{
+  "es6": false,
+  "type": "client-side",
+  "src": [
+    "insertionSort.js"
+  ],
+  "tests": [
+    "insertionSort.test.js"
+  ]
+}

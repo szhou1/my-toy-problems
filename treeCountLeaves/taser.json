@@ -1,0 +1,10 @@
+{
+  "es6": false,
+  "type": "client-side",
+  "src": [
+    "treeCountLeaves.js"
+  ],
+  "tests": [
+    "treeCountLeaves.test.js"
+  ]
+}

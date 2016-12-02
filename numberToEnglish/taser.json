@@ -1,0 +1,10 @@
+{
+  "es6": false,
+  "type": "client-side",
+  "src": [
+    "numberToEnglish.js"
+  ],
+  "tests": [
+    "numberToEnglish.test.js"
+  ]
+}

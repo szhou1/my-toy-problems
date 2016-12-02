@@ -1,0 +1,10 @@
+{
+  "es6": false,
+  "type": "client-side",
+  "src": [
+    "evenOccurrence.js"
+  ],
+  "tests": [
+    "evenOccurrence.test.js"
+  ]
+}
